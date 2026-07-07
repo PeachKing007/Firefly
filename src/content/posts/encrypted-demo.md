@@ -1,13 +1,12 @@
 ---
 title: Firefly 文章加密
-published: 1970-01-02
+published: 2026-07-07
 description: 这是一篇密码保护的示例文章，用于演示文章加密功能。
 tags: [示例, 密码保护]
 category: 文章示例
 password: "123456"
 passwordHint: "示例文章密码123456"
 ---
-
 ## 成功解锁了这篇文章！
 
 如果你能看到这段内容，说明密码输入正确，文章已成功解密。
@@ -41,6 +40,7 @@ passwordHint: "示例文章密码123456"
 > 这是一个带有自定义标题的示例。
 
 ## 数学公式
+
 ### 行内公式 (Inline)
 
 欧拉公式 $e^{i\pi} + 1 = 0$ 是数学中最优美的公式之一。
@@ -66,6 +66,7 @@ $$
 $$
 
 ## 代码块
+
 #### 常规语法高亮
 
 ```js
@@ -90,7 +91,6 @@ Full RGB colors:
 
 Text formatting: [1mBold[0m [2mDimmed[0m [3mItalic[0m [4mUnderline[0m
 ```
-
 
 ## 流程图
 

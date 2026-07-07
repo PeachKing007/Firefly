@@ -1,14 +1,13 @@
 ---
 title: Markdown 扩展功能
-published: 1970-01-01
-updated: 1970-01-01
+published: 2026-07-07
+updated: 2026-07-07
 description: "了解 Firefly 中的 Markdown 功能"
 image: ""
 tags: [演示, 示例, Markdown, Firefly]
 category: "文章示例"
 draft: false
 ---
-
 ## GitHub 仓库卡片
 
 您可以添加链接到 GitHub 仓库的动态卡片，在页面加载时，仓库信息会从 GitHub API 获取。
@@ -164,6 +163,7 @@ export const siteConfig: SiteConfig = {
 > [!NOTE] 自定义标题
 > 这是一个带有自定义标题的示例。
 ```
+
 </details>
 
 ![Obsidian](./images/obsidian.avif)
@@ -196,6 +196,7 @@ export const siteConfig: SiteConfig = {
 > [!TIP] 自定义标题
 > VitePress 风格同样支持自定义标题。
 ```
+
 </details>
 
 ![VitePress](./images/vitepress.avif)
@@ -276,6 +277,5 @@ export const siteConfig: SiteConfig = {
 ![示例图片二](./images/firefly3.avif)
 [/grid]
 ```
-
 
 ---
